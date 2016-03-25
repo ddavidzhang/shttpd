@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/socket.h
+-
+sys/wait.h
+-
+sys/time.h
+-
+netinet/in.h
+-
+netdb.h
+-
+pthread.h
+-
+arpa/inet.h
+-
+signal.h
+-
+errno.h
+-
+unistd.h
+-
+dirent.h
+-
+limits.h
+-
+getopt.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+ctype.h
+-
+stddef.h
+-
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd_error.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd_method.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd_mine.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd_parameters.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd_request.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd_uri.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd_worker.c
+shttpd.h
+/home/fsdevops/Documents/code/linux (invalid encoding)/linux (invalid encoding)/18/shttpd.h
+
